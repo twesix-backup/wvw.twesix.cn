@@ -1,4 +1,4 @@
-const app = require('reply-to-visit')(4011)
+const app = require('reply-to-visit')(4011, '/love')
 
 app.serveStatic('/web/sites/wvw.twesix.cn')
 
