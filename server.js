@@ -1,6 +1,6 @@
 const app = require('reply-to-visit')(4011, '/love/')
 
-app.serveStatic('/web/sites/wvw.twesix.cn')
+app.serveStatic('/web/sites/www.twesix.cn/love')
 
 app.addQuestion
 (
